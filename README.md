@@ -4,7 +4,7 @@
  this a test
 
 
-Nastia Pavlovslkaja
+Nastia Pavlovskaja
 Andrius Survila
 Viktorija Žilinskaja
 Leon Sidun
