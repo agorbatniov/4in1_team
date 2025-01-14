@@ -10,6 +10,7 @@ Viktorija Žilinskaja
 Leon Sidun
 Natanas Zaicevas
 Evialina Mikhadziuk
+Daniel Varkavicius
 ```
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⢻⡻⠿⣿⣿⣿⣿⣿⣿⣿⣿
