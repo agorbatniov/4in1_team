@@ -2,3 +2,5 @@ l = []
 for i in range(int(input("Сколько оценок?"))):
     l.append(int(input()))
 print(f"Средняя оценка ученика: {sum(l) / len(l)}")
+ 
+//123
