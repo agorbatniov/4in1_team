@@ -1,3 +1,4 @@
-grades = [10,2,6,4,7,5,8,3,9,7,8,8,6,5,2,8]
-average = sum(grades)/len(grades)
-print("Average of list: ", round(average,3))
+l = []
+for i in range(int(input("Сколько оценок?"))):
+    l.append(int(input()))
+print(sum(l) / len(l))
