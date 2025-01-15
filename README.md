@@ -11,6 +11,7 @@ Leon Sidun
 Natanas Zaicevas
 Evialina Mikhadziuk
 Daniel Varkavicius
+Nikita Nikeshin
 ```
 ==========0==========
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
