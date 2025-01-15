@@ -5,7 +5,7 @@
 
 
 Nastia Pavlovskaja
-Andrius Survila .
+{Andrius Survila}
 Viktorija Žilinskaja
 Leon Sidun
 Natanas Zaicevas
