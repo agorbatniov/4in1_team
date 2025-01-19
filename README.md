@@ -12,6 +12,7 @@ Natanas Zaicevas
 Evialina Mikhadziuk
 Daniel Varkavicius
 Nikita Nikeshin
+Edgar Dainarovic
 ```
 ==========0==========
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
